@@ -1,0 +1,16 @@
+{
+  "name": "tracer-keepalive",
+  "version": "1.0.0",
+  "description": "Keep Tracer Dev Environment up during work hours",
+  "main": "index.js",
+  "repository": "https://github.com/PeytonCleveland/tracer-keepalive.git",
+  "author": "Peyton Cleveland <pcleveland@rise8.us>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
